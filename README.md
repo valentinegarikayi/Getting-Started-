@@ -1,2 +1,5 @@
-# Getting-Started-
-My first repository on GitHub
+# Getting-Started
+
+see examples at http://www.practicepython.org/
+
+
