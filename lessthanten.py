@@ -10,8 +10,8 @@ for i in a:
     if i<5:
         x.append(i)
 
-print x
+print (x)
 
 #same answer in one line
 x = [i for i in a if i<5]
-print x
+print (x)
