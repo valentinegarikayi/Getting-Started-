@@ -1,7 +1,6 @@
-
-a=[input('Eneter an element: ')for i in range(5)]
+#!/usr/bin/env python
+a=['John', 'Peter', 'Dick', 'Dick', 'Francis', 'Git', 'John']
 b=[]
 for i in a:
-    if i==i:
-        b.append(i)
+    b.append(i)
 print(b)
