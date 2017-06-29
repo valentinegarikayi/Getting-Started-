@@ -4,8 +4,7 @@
 # here I attempt reversing the string using double colon and it works
 user=input('Please give me a string:')
 back =user[::-1]
-print(back)
-# here I attempt reversing the string using reverse() and it doesnt work
-user=input('Please give me a string:')
-user.reverse()
-print(user)
+if back==user:
+    print('This is a palindrome')
+else:
+    print('This is not a palindrome')
