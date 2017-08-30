@@ -15,8 +15,8 @@ for i in a and b: # this syntax seems legal but is redundant, you can just say '
     #this checks if i is in both lists but again is redundant, just say 'if i in b'
     if i in a and b:
         print(i)
-        
-#same thing in one line   
+
+#same thing in one line
 print set([i for i in a if i in b])
 
 #generate random lists and do the same thing
