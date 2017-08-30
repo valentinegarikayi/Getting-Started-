@@ -11,7 +11,7 @@ numb=int(input('Please guess what number I am: '))#accepts the random number-thi
 b=[int(i) for i in str(numb)]#converts the number into a string
 c=[]#this stores all the guesses
 for x in a:
-            if x in a and b:
-                print('1 Cow')
-            else:
-                print('1 Bull')
+    if x in a and b:
+        print('1 Cow')
+    else:
+        print('1 Bull')
