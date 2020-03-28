@@ -1,7 +1,13 @@
 #!/usr/bin/env python
-import numpy as np
-x= int(input('Enter a number: '))
-y= int(input('Enter the second number: '))
-z=x**y
-print (x, 'raised to the power of', y, 'is', z)
-print ('the base 2 of x', 'is', np.log(x))
+#Find a positive integer that is divisible by both 11 and 12
+counter =0
+while True:
+    if counter>=10:
+        break
+    counter = counter+1
+    Ten_integers=int(input('Please enter an integer:'))
+    if Ten_integers%2==0:
+        print ('You have just entered an even number')
+    else:
+        print ('This is an odd number')
+print('Even numbers are', Even, 'Odd numbers are',Odd)
