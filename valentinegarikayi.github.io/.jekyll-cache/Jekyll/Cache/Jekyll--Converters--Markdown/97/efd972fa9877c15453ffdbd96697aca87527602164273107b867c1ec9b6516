@@ -1,0 +1,19 @@
+I"B<p>I recently spent some time improving the typography of this blog. Here are the 3 things that had the biggest impact on improving my site’s readability.<!--more--></p>
+
+<h3 id="1-steal-typography-from-sites-that-you-like">1. Steal typography from sites that you like</h3>
+
+<p>Look at the sites you frequent and take note of their readability. Inspect their CSS of your favorites: Right-click &gt; Inspect Element on the paragraph you like and steal their font-size, line-height, and paragraph width.</p>
+
+<p>This blog uses a 21px font-size &#038; 32px line-height when in full screen mode, which is a width of 665px. I took inspiration from Zeldman’s blog and SVN by 37 Signals.</p>
+
+<h3 id="2-optimize-your-font-stack-for-readability">2. Optimize your font stack for readability</h3>
+
+<p>Yes, thin Proxima Nova is gorgeous, but there’s a reason that books aren’t printed in it. Serif stacks are a lot more readable.</p>
+
+<p>Grab a serif font stack from <a href="http://cssfontstack.com">cssfontstack.com</a>. They are all optimized to fall back well across different browsers/devices. I’m a fan of the Cambria and Georgia stacks.</p>
+
+<h3 id="3-when-in-doubt-use-the-golden-ratio">3. When in doubt, use the golden ratio</h3>
+
+<p>It’s argued that there’s a science to readability, and it’s the <a href="http://www.pearsonified.com/2012/01/characters-per-line.php">golden ratio</a>. You really can’t go wrong with sticking to it. Pearsonified created a really handy <a href="http://www.pearsonified.com/typography">calculator</a> for calculating the golden ratio for your text.</p>
+
+:ET

@@ -1,0 +1,79 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site
+name:Francis Garikayi
+# Short bio or description
+description:  Politics, Education and Economics.
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: 
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: valentinegarikayi
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: veegarikayi
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: 
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: 
+
+# Enter your Mailchimp User ID and Campaign ID
+# @TODO: Add in a link for where to find these
+mailchimp:
+  user-id: REPLACEME
+  list-id: REPLACEME
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://www.barryclark.co
+imagesurl: http://www.barryclark.co/images
+
+# If you're hosting your site at a Project repository on GitHub pages 
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: beta
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  sass_dir: _scss
+  style: :compressed
+
+# Use the following plug-ins
+gems:
+  - jemoji # Emoji please!
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-redirect-from # Instead of 301 of alias redirects
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - README.md

@@ -1,0 +1,49 @@
+---
+layout: post
+title: "South Africa's Relationship with Big Business"
+date: 2018-01-03
+description: An earlier version of this article was initially published on JerichoOnline on the 3rd of January 2018
+img: Cape_Town.jpg
+tags: [Politics, South Africa, Economics ] # add tag
+---
+Delivering his Christmas message, South Africa’s newly elected African National Congress (ANC) President Cyril Ramaphosa vowed to build [an inclusive South African economy](https://www.news24.com/SouthAfrica/News/ramaphosa-determined-to-build-an-economy-that-serves-all-people-20171224) – unwittingly admitting the failure of his own party. Despite having been in power for the past 23 years, the ANC has failed to break free of the tentacles of apartheid that continue to bedevil the country into an economic system of inequality. The apartheid system was abolished in 1994, and while the lacklustre performance of the ANC government since is attributable to various factors, a key contributor to continuing inequality is the [role of big corporations as major players in the economy](https://www.sahistory.org.za/article/despite-1994-political-victory-against-apartheid-its-economic-legacy-persists-haydn-cornish).The worry for many people is that the election of Ramaphosa, [a wealthy businessman](https://www.news24.com/MyNews24/How-Cyril-Ramaphosa-obtained-his-wealth-20150713), strengthens neoliberalism's hold on the country; litte change is expected for the majority of unless radical economic transformation is implemented under his administration.
+
+**Corporate South Africa**
+
+In recent times, there has been furore over the [Steinhoff Scandal](https://www.biznews.com/sa-investing/2017/12/18/steinhoff-scandal-kpmg-friends) which wiped out billions of Rands in pension funds. Likewise, the Gupta family (a wealthy family which has secured lucrative government contracts on the back of its), along with KPMG, McKinsey and SAP, have been implicated in a web of corruption allegations. But this is no modern problem. An examination of corporate South Africa brings to the fore how corporations have been exploiting the country since the colonial era. A system of resource exploitation by monopoly capital in the extractives sector of the South African economy dates back to the 1800s in gold and diamond mining. Thus, [monopoly capital](https://www.timeslive.co.za/politics/2017-12-14-monopoly-capital-not-colourless--its-white-says-mthethwa/) has continued to dominate the South African economy even under democratic ANC rule.
+
+![De Beers]({{site.baseurl}}/assets/img/Britannica_Diamond_11.jpg)
+##### This De Beers diamond mine from 1873 shows that the history of large corporations in South Africa is no new thing. Photo credit: Wikipedia Commons.
+
+In a capitalist system, he who pays the piper calls the tune. On the advent of democracy in South Africa there were minimal changes to the ownership of capital. In fact, to further entrench their power, South African corporations roped in a small group of African elites. This was done through the [black economic empowerment](https://www.economist.com/briefing/2013/04/27/fools-gold) (BEE) scheme, a top down wealth distribution approach which was implemented by the ANC government ostensibly to eliminate poverty. The BEE was premised on the theory of trickle down economics. The supposed assumption was that, by making a few black people wealthy, it would translate into prosperity for the majority. The result was social strife, increased inequality and unemployment. Whilst most South Africans have had to endure poverty, black elites and other owners of capital have seen a rise in their fortunes. For instance, the ANC’s recently elected President, Cyril Ramaphosa, a former trade unionist, has a reported [net worth of $450m](https://www.forbes.com/profile/cyril-ramaphosa/#33705cb9124f). 
+
+But the story does not end here, the downside of South Africa's capitalist development has been made worse by the adoption of neoliberal economic policies. A neoliberal economic system has often been [criticised as a game in which the dice are loaded](https://www.theguardian.com/books/2016/apr/15/neoliberalism-ideology-problem-george-monbiot) in favour of those who already hold capital. Whats more, holders of capital strengthen their position by colluding with regulators and gatekeepers. Indeed, a few examples from South Africa are revealing.
+
+**Who abets plunder of the masses?**
+
+KPMG South Africa was [rocked by a corruption scandal](https://www.accountancyage.com/2017/09/27/kpmg-rocked-south-african-corruption-scandal/) involving the Gupta family in September 2017. Eight KPMG officials resigned in the aftermath of the scandal. This scandal brought the audit and assurance profession under scrutiny. Critics from some quarters argued that the audit and assurance profession was a mere tool for corporations to gain a veneer of authenticity in business.
+
+![Audit Firms]({{site.baseurl}}/assets/img/Firms.png)
+##### The ‘Big Four’ auditing firms have come under increasing criticism in South Africa. Photo Credit: Joe Barnes/Jericho.
+
+In South Africa as is worldwide, the accountancy and audit profession is dominated by the “Big Four” firms: Deloitte, PriceWaterhouseCoopers (PWC), Ernst and Young (EY) and KPMG. Together these firms run a near-monopoly of providing audit and assurance services to the biggest corporations in South Africa. Clients revolve between these firms and because companies pay audit firms for their services, conflict of interest is often hard to avoid. Moreover, while most people regard a “clean audit” as a measure of corporate responsibility and clean business conduct, the fact remains that audits are not meant to benefit the public but rather the owners of capital. The role of accountants as [allies of corporations](https://renegadeinc.com/bean-counters-lost-paradise/) in abetting the plunder of the masses in South Africa cannot be underestimated, and proof of this lies in audit reports. The wording of audit reports is often flimsy and superficial especially on important matters such as corruption.
+
+**Credit rating agencies crown the system**
+
+If audits legitimise larceny, then credit rating agencies crown the system. In November 2017, the Rainbow Nation was [downgraded to junk status](https://www.ft.com/content/c9328624-d194-11e7-b781-794ce08b24dc) in the credit market. Following the downgrade, corporations are now expected to pay more interest because of the perceived high risk. The result of this is the erosion of pension investments for the general citizenry. Meanwhile, providers of capital have the most to gain. With the cost of credit and capital increasing after a credit downgrade, those lending money, often foreign investors and banks, will see their dividends rising.
+
+![Soweto]({{site.baseurl}}/assets/img/Soweto_township.jpg)
+##### In Soweto Township, many people’s daily existence doesn’t contain a trace of the spectacular views of Table Mountain that festoon the country’s tourist brochures. Photo credit: Wikipedia Commons
+
+**Towards an inclusive economic order**
+
+Breaking the mould of a neoliberal economic order dominated by big corporations will be no easy feat. Already some analysts are describing Cyril Ramaphosa as [a darling of the market](https://beta.mg.co.za/article/2017-12-25-what-does-ramaphosas-victory-mean-for-south-africas-economy/). The ANC’s new leader is a staunch capitalist who has become extremely wealthy via the status quo; its unlikely he will change a system from which he has benefited so much. Yet, an inclusive economy needs to unshackle the formidable chains of private capital. The provision of jobs and cheap talk about dealing with corruption will not build an inclusive economy. Furthermore, [the financialisation](https://newafricanmagazine.com/10310/) of South Africa’s economy makes this task even harder.
+
+Is there a way of transforming South Africa’s economy without ruffling feathers of the corporate giants? Perhaps the major players in South Africa’s economy need to sign a new social contract. Moreover, the government must play a major role in levelling the economic playing field. In any case, as new scandals emerge and the average family continues to bear the brunt, support may further shift to the opposition. The Economic Freedom Fighters (EFF), South Africa's second largest opposition party is advocating for radical change in the economic system. Whether they have the capacity and willingness to do it once in power is a question for another day.
+
+As history teaches us, it is rare for those in positions of privilege to give it up easily. Since South Africa’s independence in 1994, there have been ongoing modifications to the capitalist system to make it appear more acceptable to modern onlookers – albeit with no meaningful benefits for the majority. Unless that changes, it will only encourage further radicalism.
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

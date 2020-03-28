@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<article class="page">
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
+
+{% if page.cta == 'newsletter' %}{% include cta-newsletter.html %}{% endif %}

@@ -1,0 +1,30 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4F95B6;//#568DA7;//#438EBB;//#B6E0F3; // http://www.colourlovers.com/palette/92095/Giant_Goldfish
+$orange: #FF7715;//#FA6900;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #555;
+$transparentGray: rgba(255, 255, 255, 0.8);
+$lightGray: #ddd;
+$lighterGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$merriweather: 'Merriweather', Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 800px) {
+    @content;
+  }
+}

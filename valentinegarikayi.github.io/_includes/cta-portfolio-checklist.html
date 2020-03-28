@@ -1,0 +1,11 @@
+{% if site.mailchimp %}
+<section id="cta" class="cta clearfix">
+	<div class="description">
+		<h3>Enjoy this portfolio example?</h3>
+		<p>Get the next one delivered straight to your inbox.</p>
+		<p>I'll send you an update when I publish a new portfolio study, or write any portfolio related content that I think you might like. One email every two weeks, at most.</p>
+	</div>
+
+	{% include mailchimp-form.html %}
+</section>
+{% endif %}
